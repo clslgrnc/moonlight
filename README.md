@@ -1,5 +1,7 @@
 # MoonLight: Fuzzing Corpus Design and Construction
 
+![moonlight logo](img/moonlight-logo.png "MoonLight logo")
+
 **MoonLight** is a research project looking at efficient methods for
 _designing_ a corpus typically for use in fuzzing campaigns. We call this
 design process **distillation**.
