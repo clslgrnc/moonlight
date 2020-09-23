@@ -45,7 +45,29 @@ have the smallest _weight_.
 _MoonLight can perform both weighted and unweighted distillations._
 
 For more information on the performance of MoonLight against the current state
-of the art see [Results](RESULTS.md).
+of the art see [Results](RESULTS.md) and our paper on
+[Arxiv](https://arxiv.org/abs/1905.13055). If you use MoonLight, please cite our
+work:
+
+```
+@article{2020:Herrera:MoonLight,
+  author    = {Adrian Herrera and
+               Hendra Gunadi and
+               Liam Hayes and
+               Shane Magrath and
+               Felix Friedlander and
+               Maggi Sebastian and
+               Michael Norrish and
+               Antony L. Hosking},
+  title     = {Corpus Distillation for Effective Fuzzing: A Comparative Evaluation},
+  journal   = {CoRR},
+  volume    = {abs/1905.13055},
+  year      = {2020},
+  url       = {http://arxiv.org/abs/1905.13055},
+  archivePrefix = {arXiv},
+  eprint    = {1905.13055},
+}
+```
 
 ## Installation
 
